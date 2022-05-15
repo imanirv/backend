@@ -1,0 +1,45 @@
+{
+
+    "arrayOfProducts" : [
+        {
+            "id": 1,
+            "name": "soap",
+            "qty": 1000,
+            "picture": "",
+            "expiredAt": "2022-05-15T00:14:17.000Z",
+            "isActive": 1
+        },
+        {
+            "id": 2,
+            "name": "toothpaste",
+            "qty": 1000,
+            "picture": "",
+            "expiredAt": "2022-05-15T00:14:17.000Z",
+            "isActive": 1
+        },
+        {
+            "id": 3,
+            "name": "toothbrush",
+            "qty": 1000,
+            "picture": "",
+            "expiredAt": "2022-05-15T00:14:17.000Z",
+            "isActive": 1
+        },
+        {
+            "id": 4,
+            "name": "shampoo",
+            "qty": 1000,
+            "picture": "",
+            "expiredAt": "2022-05-15T00:14:17.000Z",
+            "isActive": 1
+        },
+        {
+            "id": 5,
+            "name": "facial wash",
+            "qty": 1000,
+            "picture": "",
+            "expiredAt": "2022-05-15T00:14:17.000Z",
+            "isActive": 1
+        }
+    ]
+}
